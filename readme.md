@@ -4,7 +4,7 @@ This project showcases a Lambda function that automatically resizes images when 
 
 ## Project Flowchart
 
-![Project Flowchart](/images/flowchart-image.png)
+![Project Flowchart](/images/flowchart-image-resizer.png)
 
 ## How it Works
 
