@@ -27,7 +27,6 @@ npm install sharp
 
 
 ## Technologies Used
-
 - AWS Lambda
 - AWS S3
 - Sharp (Image Processing Library)
