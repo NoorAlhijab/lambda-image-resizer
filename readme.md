@@ -4,7 +4,7 @@ This project showcases a Lambda function that automatically resizes images when 
 
 ## Project Flowchart
 
-![Project Flowchart](images/flowchart_image.png)
+![Project Flowchart](/images/flowchart-image.png)
 
 ## How it Works
 
@@ -24,6 +24,7 @@ To install the required dependencies for this project, run the following command
 
 ```bash
 npm install sharp
+
 
 ## Technologies Used
 
