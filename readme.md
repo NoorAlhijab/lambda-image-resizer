@@ -2,7 +2,7 @@
 
 This project showcases a Lambda function that automatically resizes images when they are uploaded to an S3 bucket. The Lambda function is triggered by S3 events and processes the images to create resized thumbnails, which are then stored in a separate S3 bucket.
 
-## Project Flowchart
+## Lambda Image Resizer App Architecture
 
 ![Project Flowchart](/images/flowchart-image-resizer.png)
 
